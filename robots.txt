@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://jumbobet-online-casino.com/
+Sitemap: https://jumbobet-online-casino.com/sitemap.xml
